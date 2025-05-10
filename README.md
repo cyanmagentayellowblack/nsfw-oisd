@@ -1,2 +1,2 @@
 # nsfw-oisd
-the nsfw from https://oisd.nl/ but in markdown.
+The NSFW filter from https://oisd.nl/, but in a Github repository.
